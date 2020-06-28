@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is my introduction to React, creating a simple interactive web application in JS. 
 
 ## Preview
 
