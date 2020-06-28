@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Preview
 
-![Error 404]()
+![Error 404](https://github.com/wabilasjad/react-intro/blob/master/images/Screen%20Shot%202020-06-28%20at%201.54.39%20PM.png)
 
 ## Available Scripts
 
